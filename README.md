@@ -11,7 +11,7 @@ This project is a starting point for a Flutter application.
 !!note!!:
 - for animation, you can implement another animation thru Lottie animation.
   Save animation file (*.json) at directory assets 
-- for using saved animation file (*.json), just call the name file
+- for using saved animation file (*.json), just call the name file (name_file.json)
 
 For more Lottie animation library, view
 [https://lottiefiles.com/]
