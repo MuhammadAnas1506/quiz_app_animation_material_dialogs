@@ -1,16 +1,17 @@
-# correct_and_wrong_animation_prototype
+#quiz_app_animation_material_dialogs
 
-A new Flutter project.
+animation prototype for package material_dialog.
+
+for installing & instruction package:
+- https://pub.dev/packages/material_dialogs
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+!!note!!:
+- for animation, you can implement another animation thru Lottie animation
+  save animation file (*.json) at directory assets 
+- for using saved animation file (*.json), just call the name file
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more Lottie animation library, view
+[https://lottiefiles.com/]
